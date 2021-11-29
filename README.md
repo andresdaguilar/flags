@@ -1,7 +1,7 @@
-#Install http-server:
+### Install http-server:
 
 npm install http-server
 
-#Run:
+### Run:
 
 http-server
