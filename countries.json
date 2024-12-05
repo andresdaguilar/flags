@@ -134,5 +134,61 @@
   {
     "name": "Austria",
     "flag": "Austria.jpg"
+  },
+  {
+    "name": "Grecia",
+    "flag": "Grecia.png"
+  },
+  {
+    "name": "Colombia",
+    "flag": "Colombia.png"
+  },
+  {
+    "name": "Portugal",
+    "flag": "Portugal.png"
+  },
+  {
+    "name": "Escocia",
+    "flag": "Escocia.png"
+  },
+  {
+    "name": "Panamá",
+    "flag": "Panama.png"
+  },
+  {
+    "name": "Mónaco",
+    "flag": "Monaco.png"
+  },
+  {
+    "name": "Croacia",
+    "flag": "Croacia.png"
+  },
+  {
+    "name": "Montenegro",
+    "flag": "Montenegro.png"
+  },
+  {
+    "name": "Albania",
+    "flag": "Albania.png"
+  },
+  {
+    "name": "Macedonia del Norte",
+    "flag": "Macedonia.png"
+  },
+  {
+    "name": "Bosnia y Herzegovina",
+    "flag": "Bosnia.png"
+  },
+  {
+    "name": "Eslovenia",
+    "flag": "Eslovenia.png"
+  },
+  {
+    "name": "Noruega",
+    "flag": "Norway.png"
+  },
+  {
+    "name": "Malta",
+    "flag": "Malta.png"
   }
 ]
